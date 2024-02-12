@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient( 50deg,yellow,black,blue);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 18px;
+}
+
+a{ 
+    text-align: center;
+    text-decoration:none;
+    color:cadetblue;
+}
+
+.rodape{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cadetblue;
+    padding-top: 50%;
+    text-align:center;
+    text-emphasis-position: botom;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+
+}
+
+.space{
+    text-align: center;
+    padding-top: 5%;
+}

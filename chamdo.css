@@ -1,0 +1,35 @@
+
+div{
+    padding-top: 2%;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    background-image: linear-gradient(50gad,blue,black,yellow);
+    
+
+}
+
+.chamado{
+    padding-top: 5%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 10px;
+
+}
+
+.botoes{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 5pc;
+
+}
+
+.rodape{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    padding-top: 2%;
+    text-align:center;
+    text-emphasis-position: botom;
+
+}
